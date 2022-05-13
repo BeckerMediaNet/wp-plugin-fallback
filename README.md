@@ -1,7 +1,7 @@
 # wp-plugin-fallback
 Wordpress plugins fallback for composer
 
-#add to your .composer folder
+# add to your .composer folder
 {
   "http-basic": {
     "github.com": {
